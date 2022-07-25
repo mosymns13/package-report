@@ -1,7 +1,7 @@
 #' ---
 #' author: "Millie Symns"
 #' date: `r format(Sys.Date)`
-#' output: github_documment
+#' output: github_document
 #' ---
 
 
