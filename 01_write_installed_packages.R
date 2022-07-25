@@ -1,3 +1,10 @@
+#' ---
+#' author: "Millie Symns"
+#' date: `r format(Sys.Date)`
+#' output: github_documment
+#' ---
+
+
 library(tidyverse)
 
 all_packages <- as.data.frame(installed.packages())
