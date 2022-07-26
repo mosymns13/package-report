@@ -13,3 +13,5 @@ focused <- all_packages %>%
   select(Package, LibPath, Version, Priority, Built)
 
 #readr::write_csv(focused, "data/installed-packages.csv")
+
+#adding an insightful comment
